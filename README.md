@@ -71,4 +71,5 @@ Dataset sourced from the Australian Government's Bureau of Meteorology via Kaggl
 This project is open source and available under the MIT License.
 
 ---
-Created by [Your Name] | [Year]
+Created by Amritha S | May 2025
+
