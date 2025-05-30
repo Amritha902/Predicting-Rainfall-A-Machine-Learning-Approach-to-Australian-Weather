@@ -58,17 +58,7 @@ The dataset includes various weather measurements such as:
 - Add feature engineering for temporal patterns
 - Optimize hyperparameters further
 
-## Usage
-1. Clone the repository
-2. Install required packages
-3. Run the Jupyter notebook
-4. Explore the analysis and results
 
-## Data Source
-Dataset sourced from the Australian Government's Bureau of Meteorology via Kaggle.
-
-## License
-This project is open source and available under the MIT License.
 
 ---
 Created by Amritha S | May 2025
